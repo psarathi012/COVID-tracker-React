@@ -1,3 +1,11 @@
+
+The LIVE DEMO OF THIS APP- https://covid-19-tracker-1ae3f.firebaseapp.com/
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
